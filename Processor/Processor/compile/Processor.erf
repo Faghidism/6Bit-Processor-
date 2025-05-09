@@ -1,0 +1,5 @@
+MESSAGE "File: D:/My university/Term 8/CoDesign/Project/CoDesign_Project_Ostvar_Afrakhteh/Processor/Processor/src/TestBench/processor2_TB.vhd" 
+MESSAGE "Compile Entity "processor2_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "processor2_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_processor2"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]" 
